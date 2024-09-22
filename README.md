@@ -1,6 +1,7 @@
 # A log P Prediction Web Application
 
 This repository contains a web application designed to predict the **A log P** value for small molecules based on various molecular features. The application also allows users to visualize data, analyze linear regression results, and explore correlations between different molecular properties. 
+This was a project that I built during my 1st semester of Engineering.
 
 The dataset used in this project is obtained from Kaggle and has been pre-processed to include only small molecules with a set of key features.
 
@@ -31,6 +32,7 @@ This project predicts the **A log P** value, which is an important physicochemic
 - **Custom Data Plotting**: Choose molecular features from the dataset and create custom plots to explore how these features interact with each other.
 
 ## Dataset
+You can find the original dataset [here](https://www.kaggle.com/code/ahmedelmaamounamin/solubility-prediction/input).
 The dataset is sourced from **Kaggle** and contains information about small molecules, including the following features:
 - Molecular Weight
 - Polar Surface Area
