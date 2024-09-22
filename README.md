@@ -17,8 +17,6 @@ You can access the deployed web app [here](https://techno-furious-solubility-pre
 - [Web Application](#web-application)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 
 ---
 
