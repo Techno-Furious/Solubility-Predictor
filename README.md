@@ -78,7 +78,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd your-repository
+    cd Solubility-Predictor
     ```
 
 3. **Install required dependencies**:
@@ -88,7 +88,7 @@ Before you begin, ensure you have met the following requirements:
 
 4. **Run the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run streamapp.py
     ```
 
 5. **Open your browser** and navigate to `http://localhost:8501` to access the web application.
